@@ -1,0 +1,22 @@
+{
+  "wheel_id": 632,
+  "structure": "umbrella",
+  "slug": "financebrokerwollongong-106",
+  "project": "finance-broker-wollongong-suburb-guide-813bbe8888882f2f51fad1d5",
+  "parent_t1_ref": "financebrokerwollongong-153",
+  "node_role": "feeder",
+  "money_target": "financebrokerwollongong.com.au",
+  "primary_kw": "finance broker wollongong suburb guide",
+  "intended_url": "http://finance-broker-wollongong-suburb-guide-813bbe8888882f2f51fad1d5.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "768117fa1150a362",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/financebrokerwollongong-153/",
+      "anchor": "this finance broker wollongong timeline guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
